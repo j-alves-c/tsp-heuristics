@@ -1,6 +1,6 @@
 # tsp-heuristics
 
-O código foi feito na linguagem Python,versão 3.8, mas é compilável desde a versão 3.7 até a 3.10.5
+O código foi feito na linguagem Python,versão 3.8, mas é compilável desde a versão 3.7 até a 3.10.10
 
 Para executar a aplicação, abra o terminal na pasta raiz do projeto e execute: python run.py
 
