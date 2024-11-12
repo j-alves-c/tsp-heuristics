@@ -1,0 +1,3 @@
+from metaheuristicas.hill_climbing import HillClimbing
+from metaheuristicas.simulated_annealing import SimulatedAnnealing
+from metaheuristicas.busca_tabu import BuscaTabu
